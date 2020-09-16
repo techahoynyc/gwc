@@ -6,3 +6,4 @@
 # hello 2.0
 # edit from the master branch
 #new edit
+##i resolved the commit error, finally!
